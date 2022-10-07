@@ -1,6 +1,7 @@
 # Build your resume online using Azure Static Web Apps
 
 This is the repository for the presentation given at the 2022 Microsoft Student Summit.
+It was created based on [this Microsoft tutorial, from the Workshop Library](https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website).
 
 ## Requirements:
 - Visual Studio Code
